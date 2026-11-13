@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      cadence
+HostName                       cad17
+ProcessIdentifier              221576
+ProcessCreationTime_UTC        1789637037
+ProcessCreationTime_Readable   Thu Sep 17 14:53:57 2026 IST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/cadence/Desktop/lvds/LVDS_driver/rx_comparator/schematic/sch.oa.cdslck
+TimeEditLocked                 Thu Sep 17 16:06:34 2026 IST
